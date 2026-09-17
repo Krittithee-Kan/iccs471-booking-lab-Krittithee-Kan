@@ -1,0 +1,9 @@
+[project]
+name = "iccs471-booking-starter"
+version = "0.1.0"
+description = "A small in-memory room booking exercise for ICCS471"
+requires-python = ">=3.12,<3.13"
+dependencies = []
+
+[tool.uv]
+package = false
